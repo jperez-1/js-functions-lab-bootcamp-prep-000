@@ -4,5 +4,5 @@ function happyHolidays(string) {
 }
 
 function happyHolidayTo(name) {
-  return 'Happy holidays, ' + `${name}` + "!";
+  return `Happy holidays, ` + `${name}` + `!`;
 }
